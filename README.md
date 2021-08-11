@@ -1,1 +1,1 @@
-#  Este  são  codigo em Python para automação  de pastas no Windows
+#  Este  é o codigo em Python para automação  de pasta no Windows
