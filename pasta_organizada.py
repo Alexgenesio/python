@@ -31,5 +31,5 @@ for root,dirs,files in os.walk(caminho_original):
 
             except Exception  as e:
                 print('ERRO')
-print("")  
+print()  
 print(f'{conta}, arquivos encotrado')              
