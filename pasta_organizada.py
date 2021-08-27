@@ -1,7 +1,7 @@
 import os #modulo python
 import shutil #modulo python
 
-caminho_original = 'C:/Users/alex_pc/Downloads/'
+caminho_original = 'C:/Users/usuario_pc/Downloads/'
 caminho_pdf = 'C:/Users/usuario_pc/Downloads/arquivos_pdf'
 caminho_xml = 'C:/Users/usuario_pc/Downloads/arquivos_excel'
 caminho_todos= 'C:/Users/usuario_pc/Downloads/todos_arquivos'
